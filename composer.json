@@ -14,5 +14,6 @@
             "ExchangeRatesCBRF.php"
         ]
     },
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
